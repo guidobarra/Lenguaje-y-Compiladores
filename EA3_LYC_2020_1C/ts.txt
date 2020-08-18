@@ -1,0 +1,3 @@
+Nombre                                            Tipo         Valor                                             Longitud    
+_Ingrese_un_valor_entero_positivo__               CTE_STRING   "Ingrese un valor entero positivo: "              34          
+X                                                 INTEGER      

@@ -1,0 +1,10 @@
+
+START:
+MOV AX,@DATA
+MOV DS,AX
+MOV es,ax
+FINIT
+FFREE
+
+displayString _Ingrese_un_valor_entero_positivo__
+GetInteger X

@@ -1,0 +1,2 @@
+[0]-->(write, _Ingrese_un_valor_entero_positivo__,  )
+[1]-->(read, X,  )
